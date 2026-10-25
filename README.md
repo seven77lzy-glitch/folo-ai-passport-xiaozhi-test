@@ -1,5 +1,5 @@
 ```
-# test build for history feature
+# test build for history feature test
 ```
 # XiaoZhi 2.5 for FoloToy AI Passport
 
