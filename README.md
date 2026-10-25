@@ -1,3 +1,6 @@
+```
+# test build for history feature
+```
 # XiaoZhi 2.5 for FoloToy AI Passport
 
 This distribution intentionally contains only the FoloToy AI Passport (ESP32-C3) board implementation. The XiaoZhi core is based on v2.5.0 and the board definition follows the official [FoloToy AI Passport BSP](https://github.com/FoloToy/ai-passport).
